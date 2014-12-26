@@ -10,7 +10,7 @@ npm install midify-numark-dj2go
 
 ## What it does
 
-[midify](https://github.com/ben-eb/midify) is a package that combines node's event emitter with the browser's web midi api, to make working with midi messages more palatable. This module provides handlers for the Numark MixTrack Pro, intended to be used with midify, but also provides a reference for the various controls on the device so that it can be used with other modules too!
+[midify](https://github.com/ben-eb/midify) is a package that combines node's event emitter with the browser's web midi api, to make working with midi messages more palatable. This module provides handlers for the Numark DJ 2 Go, intended to be used with midify, but also provides a reference for the various controls on the device so that it can be used with other modules too!
 
 ## Example
 
