@@ -48,7 +48,7 @@ navigator.requestMIDIAccess().then(function(midiAccess) {
 
 ## Mapping
 
-[dj2go](dj2go.png)
+![dj2go](dj2go.png)
 
 Substitute `deckX` for `deckA` or `deckB` depending on which side of the controller the control is.
 
