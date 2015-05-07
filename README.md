@@ -1,6 +1,6 @@
-# midify-numark-dj2go [![NPM version](https://badge.fury.io/js/midify-numark-dj2go.svg)](http://badge.fury.io/js/midify-numark-dj2go) [![Dependency Status](https://gemnasium.com/ben-eb/midify-numark-dj2go.svg)](https://gemnasium.com/ben-eb/midify-numark-dj2go)
+# [midify]-numark-dj2go [![NPM version](https://badge.fury.io/js/midify-numark-dj2go.svg)](http://badge.fury.io/js/midify-numark-dj2go) [![Dependency Status](https://gemnasium.com/ben-eb/midify-numark-dj2go.svg)](https://gemnasium.com/ben-eb/midify-numark-dj2go)
 
-> midify compatible map for the Numark DJ 2 Go.
+> [midify] compatible map for the Numark DJ 2 Go.
 
 Install via [npm](https://npmjs.org/package/midify-numark-dj2go):
 
@@ -10,7 +10,7 @@ npm install midify-numark-dj2go
 
 ## What it does
 
-[midify](https://github.com/ben-eb/midify) is a package that combines node's event emitter with the browser's web midi api, to make working with midi messages more palatable. This module provides handlers for the Numark DJ 2 Go, intended to be used with midify, but also provides a reference for the various controls on the device so that it can be used with other modules too!
+[midify] is a package that combines node's event emitter with the browser's web midi api, to make working with midi messages more palatable. This module provides handlers for the Numark DJ 2 Go, intended to be used with midify, but also provides a reference for the various controls on the device so that it can be used with other modules too!
 
 ## Example
 
@@ -138,4 +138,6 @@ Substitute `deckX` for `deckA` or `deckB` depending on which side of the control
 
 ## License
 
-MIT © Ben Briggs
+MIT © [Ben Briggs](http://beneb.info)
+
+[midify]: https://github.com/ben-eb/midify
